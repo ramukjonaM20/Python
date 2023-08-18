@@ -81,4 +81,4 @@ Contributions to this repository are welcome! If you have additional Python prog
 
 Happy coding!
 
-For more resources and tutorials, visit [Colab](put.link).
+For more resources and tutorials, visit [Colab](https://colab.research.google.com/drive/1EBUMWuLbEWfo-x4fFMRg8O8NDBK1w1lh?usp=sharing).
