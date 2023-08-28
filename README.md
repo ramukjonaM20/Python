@@ -7,7 +7,7 @@ I am Manojkumar,In this Repository I shared my knowledge of codings in Python
 This repository contains a collection of basic Python programs that have been practiced using Google Colab notebooks. The programs cover a range of fundamental concepts in Python programming and serve as a learning resource for beginners and intermediate programmers. Each program is accompanied by a dedicated Colab notebook that provides explanations, code snippets, and interactive execution.
 # Python Program Practice in Visual Studio
 
-![Python VisualStudio GitHub](https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png)
+![Python VisualStudio GitHub](file:///G:/github%20to%20visualstudio.webp)
 
 This Python program, developed in Visual Studio, is a versatile and user-friendly application that can be used for a wide range of tasks. It is designed to simplify various computational and data processing tasks with ease. The program leverages the power of Python and the convenience of the Visual Studio development environment to provide an efficient and productive experience.
 ## Table of Contents
