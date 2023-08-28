@@ -40,10 +40,10 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 
 ## Getting Started with Visual Studio
 
-Clone this repository.
-Install Python and Visual Studio.
-Open the project in Visual Studio.
-Follow the documentation to start using the program for your tasks.
+1. Clone this repository.
+2. Install Python and Visual Studio.
+3. Open the project in Visual Studio.
+4. Follow the documentation to start using the program for your tasks.
 
 ## Programs
 
