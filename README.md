@@ -14,14 +14,15 @@ This Python program, developed in Visual Studio, is a versatile and user-friendl
 
 1. [Introduction](#introduction)
 2. [Getting Started with Google Colab](#getting-started-with-google-colab)
-3. [Programs](#programs)
+3. [Getting Started with Visual Studio](#getting-started-with-visual-studio)
+4. [Programs](#programs)
    - [1. Hello, World!](#1-hello-world)
    - [2. Variables and Data Types](#2-variables-and-data-types)
    - [3. Conditional Statements](#3-conditional-statements)
    - [4. Loops](#4-loops)
    - [5. Functions](#5-functions)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
 
 ## Introduction
 
