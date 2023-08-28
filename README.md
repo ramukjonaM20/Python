@@ -37,6 +37,13 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 4. **Coding Environment**: Colab provides a coding environment where you can write and execute Python code cells.
 5. **Save to Google Drive**: You can save your Colab notebooks to your Google Drive for easy access and collaboration.
 
+## Getting Started with Visual Studio
+
+Clone this repository.
+Install Python and Visual Studio.
+Open the project in Visual Studio.
+Follow the documentation to start using the program for your tasks.
+
 ## Programs
 
 ### 1. Hello, World!
